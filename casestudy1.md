@@ -13,7 +13,7 @@ Both were found using [http://www.oercommons.org](http://www.oercommons.org)
 
 -----
 
-When searching for information, it's just not about where you look for books and article, but also about the words you use and how you use them. One way to think about keywords is:
+When searching for information, it's just not about where you look for books and articles, but also about the words you use and how you use them. One way to think about keywords is:
 
 * Choice
 * Deployment
